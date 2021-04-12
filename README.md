@@ -64,7 +64,7 @@ A conclusão indica a qual conjunto a variável de saída pertence. As regras pa
 Uma vez definidos os conjuntos de pertinência e as regras, o sistema usando lógica nebulosa já pode ser implementado utilizando uma linguagem qualquer e uma API especialista que será responsável pela fuzzificação e defuzzificação. A API receberá as regras e os conjuntos fuzzy como parâmetros além das variáveis de entrada, de forma que gere a variável de saída gratificação. Existem diversas APIs disponíveis para executar a tarefa, por exemplo: a JFuzzyLogic (figura 4): http://jfuzzylogic.sourceforge.net/html/index.html.
 
 <p align = "center">
-  <img src = "./src/assets/4.jpg">
+  <img src = "./src/assets/4.png">
 </p>
 
 <strong>Figura 4.</strong> Tela de código da API JFuzzyLogic.<br>
